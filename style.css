@@ -386,6 +386,26 @@ section .title::after{
 .skills-content .right .python::before{
     width: 40%;
 }
+.skills-content .right .Spring::before{
+    width: 70%;
+}
+.skills-content .right .React::before{
+    width: 50%;
+}
+.skills-content .right .Node::before{
+    width: 90%;
+}
+.skills-content .right .Express::before{
+    width: 40%;
+}
+.skills-content .right .Blockly::before{
+    width: 90%;
+}
+.skills-content .right .typescript::before{
+    width: 90%;
+}
+
+
 
 /* teams section styling */
 .teams .title::after{
